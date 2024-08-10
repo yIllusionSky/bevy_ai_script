@@ -1,0 +1,15 @@
+cargo-features = ["edition2024"]
+
+[package]
+name = "bdscript"
+version = "0.1.0"
+edition = "2024"
+[dependencies]
+# 用来处理number
+rust_decimal = "1.35.0"
+
+# 用来处理parser
+logos = "0.14.1"
+anyhow = "1.0.86"
+ahash = "0.8.11"
+chumsky = "1.0.0-alpha.7"

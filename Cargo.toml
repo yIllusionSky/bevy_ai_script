@@ -1,0 +1,9 @@
+[package]
+name = "bevy_ai_script"
+version = "0.1.0"
+edition = "2021"
+license = "apache"
+
+[workspace]
+default-members = ["crates/bdscript"]
+members = ["crates/bdscript"]
