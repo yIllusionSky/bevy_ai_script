@@ -1,8 +1,6 @@
 # bevy_ai_script
 a bevy script
 
-# tile_war
-
 
 <!-- PROJECT LOGO -->
 <p align="center">

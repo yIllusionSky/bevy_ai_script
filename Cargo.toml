@@ -6,4 +6,4 @@ license = "apache"
 
 [workspace]
 default-members = ["crates/bdscript"]
-members = ["crates/bdscript"]
+members = ["crates/bdscript", "crates/bevy_script"]
